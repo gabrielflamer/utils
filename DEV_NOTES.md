@@ -18,3 +18,6 @@ Personal development log — notes, findings, and ongoing work.
 - Drafted initial implementation plan for v2
 - Pinned dependency versions for reproducibility
 - Tested build on clean environment
+
+## 2026-03-23
+- Noted known limitation in docs
